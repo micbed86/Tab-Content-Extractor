@@ -10,6 +10,10 @@ Tab Content Extractor is a browser extension for Chrome and Edge that allows use
 - Option to save content in separate files
 - Option to extract only links without content
 
+## Screenshot
+
+![](screenshot1.png)
+
 ## Installation
 
 1. Clone this repository or download the ZIP file.
